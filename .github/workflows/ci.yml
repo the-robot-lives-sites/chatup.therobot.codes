@@ -1,3 +1,4 @@
+# 〚📁:26cdacf0-9f8c-5649-b31a-ff8841ffa5be〛 .github/workflows/ci.yml :: CI: PR build+smoke, main build-push sha image, chart tag bump.
 name: CI
 
 # Static nginx landing. PRs docker-build + smoke. Push to `main` smokes, then

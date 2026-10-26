@@ -1,4 +1,5 @@
 # chatup.therobot.codes
+<!-- 〚📁:39119938-5809-5276-9553-09973a7a3d44〛 README.md :: repo entry: what it is, sandbox, CI-driven deploy and TLS provisioning. -->
 
 **Repo:** https://github.com/the-robot-lives/chatup.therobot.codes
 
