@@ -3,7 +3,7 @@ static-site:
   fullnameOverride: chatup
   domain: chatup.therobot.codes
   extraHosts: []
-  image: ops.noizu.com/chatup.therobot.codes/web:sha-5668834
+  image: ops.noizu.com/chatup.therobot.codes/web:sha-b452504
   port: 80
   imagePullSecrets:
     - name: ops-registry-secret
