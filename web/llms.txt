@@ -1,4 +1,5 @@
 # Chat to Markdown
+<!-- 〚📁:cc712931-3e28-5341-8125-1532c17bf02b〛 web/llms.txt :: machine-readable product summary for AI crawlers. -->
 
 > Browser extension that exports LLM chat conversations as clean Markdown or API-format YAML. Local-only.
 

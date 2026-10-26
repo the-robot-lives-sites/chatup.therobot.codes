@@ -1,3 +1,4 @@
+# 〚📁:71526709-9636-5a50-8664-a710fcee9bac〛 helm/chatup/Chart.yaml :: chart metadata; documents the vendored-subchart decision.
 apiVersion: v2
 name: chatup
 description: "chatup.therobot.codes static landing page"

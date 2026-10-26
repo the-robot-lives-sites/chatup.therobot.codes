@@ -1,3 +1,4 @@
+# 〚📁:7cb80c10-1e1e-510c-8030-dfa1ba96282b〛 helm/chatup/charts/static-site/values.yaml :: vendored static-site subchart defaults: deploy, ingress, TLS.
 replicas: 1
 domain: example.com
 extraHosts: []

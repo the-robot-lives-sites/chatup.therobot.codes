@@ -1,3 +1,4 @@
+# 〚📁:91d25ef8-f3d7-530f-b6b1-b8e9824266e3〛 helm/chatup/values.yaml :: chart values: domain, image tag (CI-bumped), TLS Infisical wiring.
 static-site:
   nameOverride: chatup
   fullnameOverride: chatup

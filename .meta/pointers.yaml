@@ -1,0 +1,98 @@
+---
+pointers:
+  0266cfdf-1c1b-5b8f-8e79-54d622e5284d:
+    created_at: 2026-10-26T23:09:20.833013Z
+    description: hosted Chrome Web Store privacy policy page.
+    file_path: web/privacy.html
+    function: web/privacy.html
+    kind: file
+    line: 2
+    locations:
+      - file_path: web/privacy.html
+        line: 2
+    token: 𓲙𓇚𓃙𓭭
+    updated_at: 2026-10-26T23:09:20.833013Z
+  26cdacf0-9f8c-5649-b31a-ff8841ffa5be:
+    created_at: 2026-10-26T23:09:20.832996Z
+    description: 'CI: PR build+smoke, main build-push sha image, chart tag bump.'
+    file_path: .github/workflows/ci.yml
+    function: .github/workflows/ci.yml
+    kind: file
+    line: 1
+    locations:
+      - file_path: .github/workflows/ci.yml
+        line: 1
+    token: 𓉨𓉩𓞔𓬎
+    updated_at: 2026-10-26T23:09:20.832996Z
+  39119938-5809-5276-9553-09973a7a3d44:
+    created_at: 2026-10-26T23:09:20.833010Z
+    description: 'repo entry: what it is, sandbox, CI-driven deploy and TLS provisioning.'
+    file_path: README.md
+    function: README.md
+    kind: file
+    line: 2
+    locations:
+      - file_path: README.md
+        line: 2
+    token: 𓤾𓊓𓅥𓇴
+    updated_at: 2026-10-26T23:09:20.833010Z
+  71526709-9636-5a50-8664-a710fcee9bac:
+    created_at: 2026-10-26T23:09:20.833025Z
+    description: chart metadata; documents the vendored-subchart decision.
+    file_path: helm/chatup/Chart.yaml
+    function: helm/chatup/Chart.yaml
+    kind: file
+    line: 1
+    locations:
+      - file_path: helm/chatup/Chart.yaml
+        line: 1
+    token: 𔏺𔋘𓛷𔒬
+    updated_at: 2026-10-26T23:09:20.833025Z
+  7cb80c10-1e1e-510c-8030-dfa1ba96282b:
+    created_at: 2026-10-26T23:09:20.832978Z
+    description: 'vendored static-site subchart defaults: deploy, ingress, TLS.'
+    file_path: helm/chatup/charts/static-site/values.yaml
+    function: helm/chatup/charts/static-site/values.yaml
+    kind: file
+    line: 1
+    locations:
+      - file_path: helm/chatup/charts/static-site/values.yaml
+        line: 1
+    token: 𓇻𓯰𓔓𓓫
+    updated_at: 2026-10-26T23:09:20.832978Z
+  91d25ef8-f3d7-530f-b6b1-b8e9824266e3:
+    created_at: 2026-10-26T23:09:20.833016Z
+    description: 'chart values: domain, image tag (CI-bumped), TLS Infisical wiring.'
+    file_path: helm/chatup/values.yaml
+    function: helm/chatup/values.yaml
+    kind: file
+    line: 1
+    locations:
+      - file_path: helm/chatup/values.yaml
+        line: 1
+    token: 𓴦𓏵𓈷𓆳
+    updated_at: 2026-10-26T23:09:20.833016Z
+  cc712931-3e28-5341-8125-1532c17bf02b:
+    created_at: 2026-10-26T23:09:20.833006Z
+    description: machine-readable product summary for AI crawlers.
+    file_path: web/llms.txt
+    function: web/llms.txt
+    kind: file
+    line: 2
+    locations:
+      - file_path: web/llms.txt
+        line: 2
+    token: 𓊰𓧏𓁤𓽻
+    updated_at: 2026-10-26T23:09:20.833006Z
+  dc8459b0-8528-5eff-84e7-4b7be0576680:
+    created_at: 2026-10-26T23:09:20.833022Z
+    description: landing page markup, styles, JSON-LD, gtag analytics.
+    file_path: web/index.html
+    function: web/index.html
+    kind: file
+    line: 2
+    locations:
+      - file_path: web/index.html
+        line: 2
+    token: 𔌒𓇆𓺌𓈠
+    updated_at: 2026-10-26T23:09:20.833022Z
